@@ -1,1 +1,1 @@
-# ARTI308-Lab10
+In this lab, we used Support Vector Machine (SVM) classification on the Iris dataset. We split the data into training and testing sets, trained the SVM model, and evaluated its performance using classification report and confusion matrix.
